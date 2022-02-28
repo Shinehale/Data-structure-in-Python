@@ -1,4 +1,3 @@
-import queue
 from pythonds.basic import Stack
 
 
